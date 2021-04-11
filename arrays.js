@@ -45,7 +45,9 @@ function removeElementFromEndOfArray(array){
 
 
 
-
+function destructivelyRemoveElementFromEndOfArray(){
+  var newArray = 
+}
 
 
 
